@@ -1,0 +1,7 @@
+C:\Users\PERSONAL\Desktop\tarea\bin\Debug\tarea.exe.config
+C:\Users\PERSONAL\Desktop\tarea\bin\Debug\tarea.exe
+C:\Users\PERSONAL\Desktop\tarea\bin\Debug\tarea.pdb
+C:\Users\PERSONAL\Desktop\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\tarea\obj\Debug\tarea.exe
+C:\Users\PERSONAL\Desktop\tarea\obj\Debug\tarea.pdb
