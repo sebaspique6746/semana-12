@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+C:\Users\UPN\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe.config
